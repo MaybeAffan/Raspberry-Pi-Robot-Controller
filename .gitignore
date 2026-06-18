@@ -1,0 +1,8 @@
+## SwiftBot API Setup
+
+This project requires Brunel University's SwiftBot API JAR.
+
+Download the compatible SwiftBot API version through Brunel's SwiftBot resources, then place the JAR inside:
+
+```text
+lib/
